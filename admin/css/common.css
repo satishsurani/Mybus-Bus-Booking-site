@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --gold: #AD8B3A;
+    --gold_hover: #ffb300;
+}
+
+* {
+    font-family: "Noto Sans", serif;
+    margin: 0;
+    padding: 0;
+}
+
+.h-font {
+    font-family: "Cinzel", serif !important;
+    color: var(--gold) !important;
+    font-weight: bold !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.custom-bg {
+    background-color: var(--gold);
+    border: 1px solid var(--gold);
+}
+
+.custom-bg:hover {
+    background-color: var(--gold_hover);
+    border: 1px solid var(--gold_hover);
+}
+
+.active {
+    color: var(--gold_hover) !important;
+}
+
+.chover:hover {
+    color: var(--gold_hover);
+}
+
+.h-line {
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
+
+.custom-alert {
+    position: fixed;
+    top: 84px;
+    right: 25px;
+    transition: opacity 0.5s ease;
+}
+
+#dashboard-menu {
+    position: fixed;
+    height: 100%;
+    z-index: 11;
+}
+
+@media screen and (max-width: 991px) {
+    #dashboard-menu {
+        height: auto;
+        width: 100%;
+    }
+
+    .main-contain {
+        margin-top: 60px;
+    }
+}
