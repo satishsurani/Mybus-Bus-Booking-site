@@ -7,7 +7,7 @@ A dynamic **Bus Booking System** built using PHP, MySQL, AJAX, JavaScript, HTML,
 ## 🚀 Features
 
 ✅ **Real-Time Seat Availability** – Instantly check and book available seats.  
-✅ **Seat Selection** – Choose your preferred seat before confirming your booking.
+✅ **Seat Selection** – Choose your preferred seat before confirming your booking.  
 ✅ **Secure Payments** – Integrated Razorpay Payment Gateway for smooth transactions.  
 ✅ **Admin Panel** – Efficiently manage routes, bookings, buses, and customer details.  
 ✅ **Route & Schedule Filtering** – Search and filter buses by date, time, and destination.  
@@ -78,6 +78,7 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 
-- Portfolio: [https://satishsurani.vercel.app/](https://satishsurani.vercel.app/)
-- LinkedIn: [linkedin.com/in/satishsurani](https://www.linkedin.com/in/satishsurani)
-- GitHub: [github.com/satishsurani](https://github.com/satishsurani)
+- **Portfolio:** [https://satishsurani.vercel.app/](https://satishsurani.vercel.app/)  
+- **LinkedIn:** [https://www.linkedin.com/in/satishsurani](https://www.linkedin.com/in/satishsurani)  
+- **GitHub:** [https://github.com/satishsurani](https://github.com/satishsurani)
+
