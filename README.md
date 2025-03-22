@@ -7,6 +7,7 @@ A dynamic **Bus Booking System** built using PHP, MySQL, AJAX, JavaScript, HTML,
 ## 🚀 Features
 
 ✅ **Real-Time Seat Availability** – Instantly check and book available seats.  
+✅ **Seat Selection** – Choose your preferred seat before confirming your booking.
 ✅ **Secure Payments** – Integrated Razorpay Payment Gateway for smooth transactions.  
 ✅ **Admin Panel** – Efficiently manage routes, bookings, buses, and customer details.  
 ✅ **Route & Schedule Filtering** – Search and filter buses by date, time, and destination.  
